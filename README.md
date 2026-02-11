@@ -1,3 +1,9 @@
+## Author
+csYousefHawi
+
+## Disclaimer
+This tool is for educational purposes only.
+
 # recon-x-port-scanner
 Simple Python-based Port Scanning Tool.
 ## Features
@@ -14,6 +20,6 @@ The tool:
 3. Identifies service names
 4. Displays open and closed ports
 
-## how can Usa : 
+## how to Usa : 
 ```bash
 python3 ping_check.py
