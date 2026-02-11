@@ -16,4 +16,4 @@ The tool:
 
 ## how can Usa : 
 ```bash
-python3 recon_tool.py
+python3 ping_check.py
